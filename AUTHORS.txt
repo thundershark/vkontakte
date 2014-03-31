@@ -8,3 +8,4 @@ Authors
 * Pyotr Yermishkin <quasiyoke@gmail.com>
 * Valentin Gorbunov <valuerr@gmail.com>
 * Pavel Borisov <pzinin@gmail.com>
+* Vatclav Dovnar <djangoman@ya.ru>
